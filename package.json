@@ -1,0 +1,46 @@
+{
+  "name": "yuukke-home-page",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001 --turbopack",
+    "build": "next build",
+    "start": "next start -p 3001",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tabler/icons-react": "^3.34.0",
+    "axios": "^1.10.0",
+    "clsx": "^2.1.1",
+    "critters-webpack-plugin": "^3.0.2",
+    "gsap": "^3.13.0",
+    "i18next": "^25.3.2",
+    "i18next-browser-languagedetector": "^8.2.0",
+    "i18next-http-backend": "^3.0.2",
+    "lottie-react": "^2.4.1",
+    "lucide-react": "^0.525.0",
+    "motion": "^12.23.5",
+    "next": "^15.4.1",
+    "razorpay": "^2.9.6",
+    "react": "^19.0.0",
+    "react-custom-roulette": "^1.4.1",
+    "react-dom": "^19.0.0",
+    "react-i18next": "^15.6.1",
+    "react-icons": "^5.5.0",
+    "react-intersection-observer": "^9.16.0",
+    "react-loading-skeleton": "^3.5.0",
+    "react-phone-input-2": "^2.15.1",
+    "react-scratchcard-v2": "^1.1.1",
+    "react-slick": "^0.30.3",
+    "react-swipeable": "^7.0.2",
+    "react-toastify": "^11.0.5",
+    "slick-carousel": "^1.8.1",
+    "tailwind-merge": "^3.3.1",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
+    "critters": "^0.0.23",
+    "tailwindcss": "^4.1.11"
+  }
+}
